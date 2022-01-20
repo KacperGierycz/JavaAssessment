@@ -2,6 +2,10 @@
 lerning java
 ## Java
 https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes
+https://technorj.com/linkedin-java-skill-assessment-answers-2021/
+https://allfreelancerplatformexamanswers.blogspot.com/2021/03/linkedin-java-assessment-answers-2021.html#google_vignette
+https://diptodesigns.xyz/linkedin-skill-assessments-answers-java/
+
 
 #### Q1. Given the string "strawberries" saved in a variable called fruit, what would `fruit.substring(2, 5)` return?
 
